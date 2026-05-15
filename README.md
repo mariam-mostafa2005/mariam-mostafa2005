@@ -109,6 +109,21 @@ Deep learning model for handwritten digit classification using TensorFlow and Ke
 `Python` `TensorFlow` `Keras`
 
 ---
+## 📈 GitHub Statistics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mariam-mostafa2005&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mariam-mostafa2005&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mariam-mostafa2005&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+
 
 # 📚 Currently Learning
 
