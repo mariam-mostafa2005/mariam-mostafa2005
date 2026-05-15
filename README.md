@@ -300,7 +300,8 @@ I'm passionate about collaborating, learning, and building amazing projects. Fee
 [![Email](https://img.shields.io/badge/Email-mariam.2023013450@bua.edu.eg-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariam.2023013450@bua.edu.eg)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mariam--mostafa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariam-mostafa-bba7783b7)
 [![GitHub](https://img.shields.io/badge/GitHub-mariam--mostafa2005-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mariam-mostafa2005)
-
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+201104729163)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201104729163)
 </div>
 
 ---
