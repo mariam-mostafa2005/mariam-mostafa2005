@@ -15,13 +15,19 @@
 
 # 💫 About Me
 
-🎓 Computer Science Student at **Badr University in Assiut (BUA)**  
-💻 Passionate about building real-world applications and learning modern technologies  
-🚀 Interested in **Full-Stack Development**, **Data Analysis**, and **Artificial Intelligence**  
-📚 Always learning, improving, and exploring new technologies  
-🌍 Based in Egypt  
+Passionate Full Stack Developer and AI/ML enthusiast currently studying at **Badr University in Assuit (BUA)**. I love building scalable web applications, working with cutting-edge technologies, and solving complex problems. Always eager to learn new skills and contribute to innovative projects.
+
+**What I Do:**
+- ✨ Build responsive and interactive web applications
+- 🔧 Design and develop robust backend APIs
+- 🤖 Implement machine learning and AI solutions
+- 📊 Design and manage databases
+- 🚀 Deploy applications using DevOps & Cloud technologies
+- 🔐 Implement secure authentication and authorization
+- 📈 Optimize performance and scalability
 
 ---
+
 
 # 🌐 Connect With Me
 
